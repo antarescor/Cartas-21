@@ -1,0 +1,78 @@
+title="enum in com.sun.source.tree">Tree.Kind</a> INT_LITERAL</pre>
+<div class="block">Used for instances of <a href="../../../../com/sun/source/tree/LiteralTree.html" title="interface in com.sun.source.tree"><code>LiteralTree</code></a> representing
+ an integral literal expression of type <code>int</code>.</div>
+</li>
+</ul>
+<a name="LONG_LITERAL">
+<!--   -->
+</a>
+<ul class="blockList">
+<li class="blockList">
+<h4>LONG_LITERAL</h4>
+<pre>public static final&nbsp;<a href="../../../../com/sun/source/tree/Tree.Kind.html" title="enum in com.sun.source.tree">Tree.Kind</a> LONG_LITERAL</pre>
+<div class="block">Used for instances of <a href="../../../../com/sun/source/tree/LiteralTree.html" title="interface in com.sun.source.tree"><code>LiteralTree</code></a> representing
+ an integral literal expression of type <code>long</code>.</div>
+</li>
+</ul>
+<a name="FLOAT_LITERAL">
+<!--   -->
+</a>
+<ul class="blockList">
+<li class="blockList">
+<h4>FLOAT_LITERAL</h4>
+<pre>public static final&nbsp;<a href="../../../../com/sun/source/tree/Tree.Kind.html" title="enum in com.sun.source.tree">Tree.Kind</a> FLOAT_LITERAL</pre>
+<div class="block">Used for instances of <a href="../../../../com/sun/source/tree/LiteralTree.html" title="interface in com.sun.source.tree"><code>LiteralTree</code></a> representing
+ a floating-point literal expression of type <code>float</code>.</div>
+</li>
+</ul>
+<a name="DOUBLE_LITERAL">
+<!--   -->
+</a>
+<ul class="blockList">
+<li class="blockList">
+<h4>DOUBLE_LITERAL</h4>
+<pre>public static final&nbsp;<a href="../../../../com/sun/source/tree/Tree.Kind.html" title="enum in com.sun.source.tree">Tree.Kind</a> DOUBLE_LITERAL</pre>
+<div class="block">Used for instances of <a href="../../../../com/sun/source/tree/LiteralTree.html" title="interface in com.sun.source.tree"><code>LiteralTree</code></a> representing
+ a floating-point literal expression of type <code>double</code>.</div>
+</li>
+</ul>
+<a name="BOOLEAN_LITERAL">
+<!--   -->
+</a>
+<ul class="blockList">
+<li class="blockList">
+<h4>BOOLEAN_LITERAL</h4>
+<pre>public static final&nbsp;<a href="../../../../com/sun/source/tree/Tree.Kind.html" title="enum in com.sun.source.tree">Tree.Kind</a> BOOLEAN_LITERAL</pre>
+<div class="block">Used for instances of <a href="../../../../com/sun/source/tree/LiteralTree.html" title="interface in com.sun.source.tree"><code>LiteralTree</code></a> representing
+ a boolean literal expression of type <code>boolean</code>.</div>
+</li>
+</ul>
+<a name="CHAR_LITERAL">
+<!--   -->
+</a>
+<ul class="blockList">
+<li class="blockList">
+<h4>CHAR_LITERAL</h4>
+<pre>public static final&nbsp;<a href="../../../../com/sun/source/tree/Tree.Kind.html" title="enum in com.sun.source.tree">Tree.Kind</a> CHAR_LITERAL</pre>
+<div class="block">Used for instances of <a href="../../../../com/sun/source/tree/LiteralTree.html" title="interface in com.sun.source.tree"><code>LiteralTree</code></a> representing
+ a character literal expression of type <code>char</code>.</div>
+</li>
+</ul>
+<a name="STRING_LITERAL">
+<!--   -->
+</a>
+<ul class="blockList">
+<li class="blockList">
+<h4>STRING_LITERAL</h4>
+<pre>public static final&nbsp;<a href="../../../../com/sun/source/tree/Tree.Kind.html" title="enum in com.sun.source.tree">Tree.Kind</a> STRING_LITERAL</pre>
+<div class="block">Used for instances of <a href="../../../../com/sun/source/tree/LiteralTree.html" title="interface in com.sun.source.tree"><code>LiteralTree</code></a> representing
+ a string literal expression of type <a href="../../../../../../../../api/java/lang/String.html?is-external=true" title="class or interface in java.lang"><code>String</code></a>.</div>
+</li>
+</ul>
+<a name="NULL_LITERAL">
+<!--   -->
+</a>
+<ul class="blockList">
+<li class="blockList">
+<h4>NULL_LITERAL</h4>
+<pr
